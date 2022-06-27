@@ -1,0 +1,88 @@
+body {
+  background-color: rgb(1, 5, 9);
+  min-height: 666px;
+  min-width: 1000px;
+}
+
+.bgi_container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1000px;
+  height: 666px;
+  margin-left: -500px;
+  margin-top: -333px;
+  background-image: url(../images/Bitmap.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+nav {
+  position: relative;
+  top: 44px;
+  left: 87px;
+  width: 244px;
+}
+
+ul {
+  display: -webkit-inline-box;
+  padding-inline-start: 0px;
+}
+
+ul > li {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(177, 187, 203, 0.87);
+  list-style-type: none;
+  padding: 0px;
+  margin-right: 13px;
+}
+
+h1 {
+  position: absolute;
+  width: 167px;
+  height: 29px;
+  top: 163px;
+  left: 101px;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+.hall_story {
+  position: absolute;
+  width: 567px;
+  height: 240px;
+  top: 200px;
+  left: 101px;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.75px;
+  line-height: 16px;
+  color: #ffffff;
+}
+
+footer {
+  position: absolute;
+  width: 126px;
+  height: 14px;
+  top: 589px;
+  left: 78px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(255, 255, 255, 0.27);
+}

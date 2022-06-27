@@ -1,0 +1,41 @@
+html {
+  height: 100px;
+}
+body {
+  position: absolute;
+  background-image: url("../assets/images/bitmap.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1100px;
+  width: 1900px;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 25px;
+  margin: 300px 0 0 400px;
+}
+
+.main_txt {
+  color: #ffffff;
+  font-family: Roboto;
+  font-weight: 400px;
+  font-size: 14px;
+  margin: 8px 0 0 401px;
+}
+
+.footer_txt {
+  margin: 350px 0 0 365px;
+  color: rgba(255, 255, 255, 0.27);
+}
+
+.header_txt {
+  position: absolute;
+  color: rgba(177, 187, 203, 0.87);
+  font-family: Roboto;
+  word-spacing: 30px;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 120px 0 0 400px;
+}

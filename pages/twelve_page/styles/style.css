@@ -1,0 +1,61 @@
+h1 {
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  text-shadow: 1px 1px 2px black;
+  line-height: 29, 3px;
+  color: #ffffff;
+}
+p {
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  text-shadow: 1px 1px 2px black;
+  line-height: 16, 41px;
+  max-width: 600px;
+  width: 567px;
+  height: 240px;
+  top: -139px;
+  left: -397px;
+  color: #ffffff;
+}
+h4 {
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  word-spacing: 10px;
+  line-height: 29, 3px;
+  width: 244px;
+  height: 18px;
+  top: -295px;
+  left: 411px;
+  color: #b1bbcb;
+  opacity: 0.7;
+}
+h6 {
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  width: 126px;
+  height: 14px;
+  top: 250px;
+  left: -420px;
+  color: hsl(255, 4%, 40%);
+  opacity: 0.4;
+}
+body {
+  background: url(images/background1.png);
+  background-size: 100%;
+}
+.tab {
+  margin-left: 101px;
+}
+.tab1 {
+  margin-top: 44px;
+}
+.tab2 {
+  margin-bottom: 63px;
+}

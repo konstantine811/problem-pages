@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page-wrap {
+  min-height: 100vh;
+  background-image: url("../images/problem_bgc.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.links {
+  padding: 25px;
+  margin: 0;
+  list-style: none;
+  position: relative;
+  background: #ffffff05;
+  box-shadow: 0px 4px 29px 17px rgb(0 0 0 / 30%);
+  backdrop-filter: blur(3px);
+  border-radius: 12px;
+}
+
+a {
+  color: azure;
+  font-size: 22px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  display: inline-block;
+  padding: 10px 0;
+}
+
+a:hover {
+  text-decoration: underline;
+}

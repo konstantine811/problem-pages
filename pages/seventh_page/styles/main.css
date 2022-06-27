@@ -1,0 +1,85 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+.main-wrap {
+  position: absolute;
+  background: no-repeat url("../accets/images/background.png");
+  background-size: cover;
+  width: 1000px;
+  height: 666px;
+}
+.main-menu {
+  position: absolute;
+  width: 244px;
+  height: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  top: 44px;
+  left: 87px;
+  right: 669px;
+  bottom: 604px;
+}
+.main-menu ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+.main-menu a {
+  text-decoration: none;
+}
+.main-menu li {
+  float: left;
+  margin-right: 12px;
+}
+.main-menu li a {
+  color: rgba(177, 187, 203, 0.87);
+}
+.main-content {
+  position: absolute;
+  width: 567px;
+  height: 240px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  top: 200px;
+  bottom: 226px;
+  left: 101px;
+  right: 332px;
+  color: #ffffff;
+}
+.p {
+  font-size: 14px;
+  line-height: 16, 41px;
+}
+.h1 {
+  position: absolute;
+  width: 167px;
+  height: 29px;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  top: 163px;
+  bottom: 474px;
+  left: 101px;
+  right: 732px;
+  color: #ffffff;
+}
+.text {
+  width: 567px;
+  height: 240px;
+}
+.main-footer {
+  position: absolute;
+  width: 126px;
+  height: 14px;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  top: 589px;
+  bottom: 63px;
+  left: 78px;
+  right: 796px;
+  color: rgba(255, 255, 255, 0.27);
+}
